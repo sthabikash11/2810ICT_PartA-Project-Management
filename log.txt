@@ -1,0 +1,203 @@
+commit 41a1e2e63b5b4af0d3430762124955866a5edf23
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 23:29:26 2023 +1000
+
+    removed old file
+
+commit 66e5416f7f49c1b2a55f2b4535f8ec1250317797
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 23:27:20 2023 +1000
+
+    updated user reuirement
+
+commit 5c70d5b72f285d0a0f224afb799219adb4ce25c6
+Author: Sabin Luitel <i.am.sabin123@gmail.com>
+Date:   Sun Sep 3 23:21:01 2023 +1000
+
+    Some changes
+
+commit 513ee0cf6bee582188970317ae745a9912fa24e6
+Author: Sabin Luitel <i.am.sabin123@gmail.com>
+Date:   Sun Sep 3 23:16:22 2023 +1000
+
+    Update
+
+commit abdb9976f20e69ba3c9d0adc5d68fb4a4149465f
+Author: Sabin Luitel <i.am.sabin123@gmail.com>
+Date:   Sun Sep 3 23:12:36 2023 +1000
+
+    Some required changes
+
+commit 659761a015b22f1d536f59cd575ef69f848f26fe
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Sun Sep 3 22:53:17 2023 +1000
+
+    Delete Software Design Document.docx
+    
+    old file
+
+commit a87447501949c40ba6c224dc1946811928cfb013
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 22:52:15 2023 +1000
+
+    updated software requirement
+
+commit 603f914e98040def7ed245d13bb5fbd51aa7ad95
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 22:50:51 2023 +1000
+
+    updated software requirement
+
+commit 0bf70d0ba85429476db598002cb299b0bd0c6d1d
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Sun Sep 3 22:50:16 2023 +1000
+
+    Delete Software Design Document1.docx
+
+commit 553b62e80b6931f0fdfad3e7be1d0faebdac616f
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Sun Sep 3 22:50:06 2023 +1000
+
+    Delete Software Design Document.docx
+
+commit 537456313d6611544064cc7125e4ccf94fb98306
+Merge: 14a43c7 dc1e1f0
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 22:48:39 2023 +1000
+
+    updated software requirement
+
+commit 14a43c758960508309e5c0af013803d4810ab0d7
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 22:47:42 2023 +1000
+
+    updated software requirement
+
+commit c2351d30892ae2cdc7c2ed92c2d2532db0a49030
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 22:45:53 2023 +1000
+
+    updated software requirement
+
+commit dc1e1f0f9bc93c6b47362573392a49ffc2831ad0
+Author: Sabin Luitel <i.am.sabin123@gmail.com>
+Date:   Sun Sep 3 21:45:29 2023 +1000
+
+    Added file by Rayan
+
+commit dd98108a82d199be9a3918e5a4b73b1bd870c696
+Author: Sabin Luitel <i.am.sabin123@gmail.com>
+Date:   Sun Sep 3 21:42:06 2023 +1000
+
+    File added
+
+commit f6bc2118f99dc845f535d60630136811ba26f1e9
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Sun Sep 3 21:12:27 2023 +1000
+
+    Delete Software Design Document.docx
+    
+    old file
+
+commit 5cd861db7c73418b91e5bc949ea7dee19fbbb62d
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 21:11:06 2023 +1000
+
+    addes new software design file
+
+commit 232dbedc0304e058be1d8f6e03c219d60e979273
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 21:08:57 2023 +1000
+
+    updated user interface and use case diagram
+
+commit 06cd802295b699a394cc98366efc86e475ccd50b
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 21:01:07 2023 +1000
+
+    updated user interface and use case diagrams
+
+commit e609dff498d1bad4ce4ff19b24a7604fb7c71821
+Author: Suzan Shrestha <sthabikash11@gmail.com>
+Date:   Sun Sep 3 06:28:08 2023 +1000
+
+    updated the file
+
+commit b87384da0e073cf13777a2bdb2845546119f3b26
+Author: Sabin Luitel <i.am.sabin123@gmail.com>
+Date:   Thu Aug 24 18:39:56 2023 +1000
+
+    added name
+
+commit 78a4a44b2b50c9a1b03e5d49e89c71c7db535f7d
+Author: Sabin Luitel <i.am.sabin123@gmail.com>
+Date:   Thu Aug 24 18:37:39 2023 +1000
+
+    added name
+
+commit fda8b54deeb6dcab303e63bc746b87b0eb7979c5
+Author: Sabin Luitel <i.am.sabin123@gmail.com>
+Date:   Thu Aug 24 18:35:18 2023 +1000
+
+    added name
+
+commit d1773d2e7b6cbcc893492f741adf99460b9cf186
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Wed Aug 16 04:51:39 2023 +1000
+
+    Update README.md
+
+commit a5d0420dea075571e38ad78cf72457574f6f4dd8
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Wed Aug 16 04:50:10 2023 +1000
+
+    Create README.md
+
+commit 7dc98f038b1efb48650a758f963b2c45d081a19e
+Author: Suzan Shrestha Bikash <stha.bikash11@gmail.com>
+Date:   Wed Aug 16 04:47:59 2023 +1000
+
+    Adding project file to repo
+
+commit c3c7020955d67d1e7b584bd658295e29fea271d6
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Wed Aug 16 04:44:54 2023 +1000
+
+    Delete Code.md
+
+commit 80bea4f92bfd5f6fdc747dd62477d3da5dfc421e
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Wed Aug 16 04:44:42 2023 +1000
+
+    Delete Test.md
+
+commit 57d7d0e371bd0a298fe92b70b85d9712eab19e65
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Wed Aug 16 04:44:06 2023 +1000
+
+    Rename README.md to Code.md
+
+commit 3e4a8dec2c133e3464953d159e2e3005fa0fbfbc
+Merge: 454249b 745ff77
+Author: Suzan Shrestha Bikash <stha.bikash11@gmail.com>
+Date:   Wed Aug 16 04:42:54 2023 +1000
+
+    Merge branch 'main' of https://github.com/sthabikash11/2810ICT_PartA-Project-Management
+
+commit 454249b3874f956ed134008e88f7ebabd30a21a6
+Author: Suzan Shrestha Bikash <stha.bikash11@gmail.com>
+Date:   Wed Aug 16 04:42:17 2023 +1000
+
+    this is second test
+
+commit 745ff77c35268ab2a02f1624c7773c611fb2010d
+Author: sthabikash11 <77617311+sthabikash11@users.noreply.github.com>
+Date:   Wed Aug 16 04:40:23 2023 +1000
+
+    Update Test.md
+
+commit a924b8c42cf049f61c6168bba68a8e5a0eb72b8b
+Author: Suzan Shrestha Bikash <stha.bikash11@gmail.com>
+Date:   Wed Aug 16 04:33:49 2023 +1000
+
+    Testing this file
