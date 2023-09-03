@@ -4,7 +4,7 @@ git add "file name"
 git commit -m "comment you want to add for change in file"
 git pull 
 git push 
-git log
+ git log > log.txt
 
 # use of code for
 clone -> Bring a repository that is hosted somewhere like Github into a folder on local machine
